@@ -1,4 +1,4 @@
-# AI-Driven Quality Assurance System for Pharmacovigilance Case Reports
+# AI-Driven Quality Assurance System
 
 ## Overview
 This project implements an **AI-driven Quality Assurance (QA) system** to automate the validation of Pharmacovigilance (PV) case reports. Using a **Random Forest Classifier**, the system identifies patterns of missing information in case reports, such as gaps in patient demographics, medications, or adverse event details. By highlighting potential data quality issues, the system enhances the robustness of the quality-check process and supports compliance with regulatory standards.
