@@ -56,7 +56,7 @@ By automating quality checks, the system reduces manual workload, improves repor
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/ai-quality-assurance.git
+   git clone https://github.com/saikiran5555/ai-quality-assurance.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -82,18 +82,3 @@ By automating quality checks, the system reduces manual workload, improves repor
 
 ## Conclusion
 The **AI-driven Quality Assurance System** for PV case reports enhances data management processes by automating the identification of missing information. This system not only improves efficiency but also ensures higher accuracy and compliance, contributing to safer healthcare practices.
-
----
-
-## Author
-**Sara Sai Kiran**
-
----
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## Acknowledgments
-Special thanks to the open-source community and the developers of the libraries used in this project.
